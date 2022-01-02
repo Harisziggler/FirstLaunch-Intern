@@ -1,0 +1,214 @@
+*{
+    margin:0;
+    padding:0;
+    scroll-behavior: smooth;
+    
+}
+body{
+    overflow-x: hidden; 
+
+}
+.header{
+    background: rgba(0,0,0,0.7)url("images/intern1.jpg");
+    height:75vh;
+    background-size: cover;
+    background-blend-mode: darken;
+    
+}
+.header p{
+    font-size:30px;
+    color:blue;
+    font-style: bold;
+    
+}
+i {
+    color:blue;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+.button{
+    color:white;
+    background-color:blue;
+    border-radius: 5px;
+    margin-left:1100px;
+   
+   
+  }
+  h2{
+      text-align: center;
+      color:white;
+      padding-top: 20px;
+  }
+  .header h6{
+      color:grey;
+      text-align: center;
+  }
+  .signup{
+      width:20%;
+      text-align: center;
+      margin-left:500px;
+      
+  }
+  .content{
+      background-color: whitesmoke;
+      height:50%;
+
+  }
+  .content h6{
+      font-size:70%;
+      color:black;
+      padding-left: 30px;
+      padding-top:50px;
+  }
+  .content p{
+      font-size:40px;
+      margin-left: 30px;
+  }
+  .content #para{
+      
+      font-size:80%;
+      margin-right:20px;
+      margin-top:70px;
+      color:rgb(148, 140, 140)
+
+  }
+  .card{
+      font-size:x-small;
+  }
+  .card-text{
+      color:grey
+  }
+  
+ .about{
+    background: rgba(0,0,0,0.7)url("images/intern1.jpg");
+    height:50vh;
+    background-size: cover;
+    background-blend-mode: darken;
+    color:white;
+    
+    
+ }
+ .about p{
+    font-size: 70%;
+    padding-left: 50px;
+    margin-top:50px;
+    
+}
+.about h6{
+     font-size:90%;
+      color:white;
+      margin-left: 150px;
+      padding-top:40px;
+}
+ 
+ #para1{
+     
+    padding-left: 100px;
+    padding-top:50px;
+    margin-left:40px
+ }
+ #para2{
+     margin-right:50px;
+     padding-right:20px;
+ }
+ .background{
+     background-color: whitesmoke;
+     background-size: cover;
+     height:70vh;
+
+
+ }
+.categories{
+    background-color: white;
+    background-size: cover;
+    height:70vh;
+
+}
+.categories p{
+    font-size: x-large;
+    color:blue;
+    padding-top: 50px;
+    margin-left: 75px;
+}
+#paratext{
+    font-size: x-small;
+    color:grey;
+    margin-left: 90px;
+    margin-top:-30px
+}
+.courses h3{
+    font-size: x-small;
+    color:grey;
+    text-decoration: underline ;
+    text-underline-position: under;
+    text-decoration-thickness: 2px;
+    
+    
+}
+.fa-facebook {
+    color: blue;
+  }
+  
+  
+  .fa-twitter {
+    color: blue;
+  }
+  .fa-linkedin {
+    color: blue;
+  }
+  .fa-instagram {
+    color: blue;
+  }
+ .roundedicon .fa{
+    padding: 5px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+ }
+ .fa-facebook {
+    background: blue;
+    color: white;
+  }
+  .fa-linkedin {
+    background: blue;
+    color: white;
+  }
+  .fa-twitter {
+    background: blue;
+    color: white;
+  }
+  .fa-instagram {
+    background: blue;
+    color: white;
+  }
+
+
+  
+  .footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height:25vh;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    width: 100%;
+    background-color:whitesmoke;
+    font-size: x-small;
+    
+    
+   }
+   .footer p{
+       font-size: x-small;
+   }
+   .copyright{
+       color:grey
+   }
+   .text{
+       float:right;
+       margin-right:20px
+   }
+   
